@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">Story App</string>
+    <string name="don_t_have_account">Don\'t have an account yet?<font color="#C58BF2"> Register</font></string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="welcome_back">Welcome Back</string>
+    <string name="Log_in_text">Log in to StoryApp</string>
+
+    <string name="fill_name">Please Input your Name</string>
+
+    <string name="fill_email">Please Input your Email</string>
+    <string name="invalid_email">Email Invalid</string>
+    <string name="is_email_used">Email already in use</string>
+
+    <string name="password_minimum_character">Password must be at least 8 characters</string>
+    <string name="fill_password">Please fill your Password</string>
+    <string name="show_password">Show Password</string>
+    <string name="missmatch_password">Passwords must be the same</string>
+
+    <string name="create_account">Create an Account</string>
+    <string name="name">Name</string>
+    <string name="already_have_account">Already have an account?<font color="#C58BF2"> Login</font></string>
+    <string name="login_failed">Your password or email is incorrect. Please check and try again.</string>
+    <string name="register_failed">Register Failed, Please Try Again..</string>
+    <string name="register_success">Register Success, Please Login..</string>
+    <string name="register">Register</string>
+    <string name="description">Description</string>
+    <string name="upload">Upload</string>
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="please_choose_image">Please choose an image file first.</string>
+    <string name="add_story_success">Success add story!</string>
+    <string name="cant_get_permission">Did not get permissions.</string>
+
+    <string name="logout">Logout</string>
+    <string name="timeout">Timeout!</string>
+    <string name="retry">Try Again</string>
+    <string name="load_fail">Failed to Load</string>
+    <string name="error_message">Error :</string>
+    <string name="error_desc">Please Enter all data</string>
+    <string name="input_true">Please enter data correctly</string>
+    <string name="OK">OK</string>
+    <string name="title_activity_maps">MapsActivity</string>
+
+    <string name="normal_type">Normal</string>
+    <string name="satellite_type">Satellite</string>
+    <string name="terrain_type">Terrain</string>
+    <string name="hybrid_type">Hybrid</string>
+</resources>
